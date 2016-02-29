@@ -4,9 +4,11 @@
   -Home
   
   ![ScreenShot](home.png)
+  
   -About Me
   
   ![ScreenShot](about.me.png)
+  
   -Minigame
   
   ![ScreenShot](minigame.png)
